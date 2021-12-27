@@ -1,0 +1,153 @@
+{
+    "MPN": [
+        false,
+        "ESP32-DevBoard-WROOM"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        ""
+    ],
+    "entity": "c54141eb-5d90-452c-bf1d-565153784772",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8ff339d7-204b-4c9d-a9ac-43043f20dcb5",
+    "pad_map": {
+        "009d2c2f-55f6-4c30-9d55-9dd1fd63d576": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "6c372645-5bed-49b0-9c00-0adc1ae1fe34"
+        },
+        "01dffb91-6574-4cf6-906b-18041f6a08e8": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "0c8fa2ae-b97e-4ddc-a87c-e3fd07bf752a"
+        },
+        "07546476-588a-48e7-b65f-80af143ae60c": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "a42eb35f-35ca-4f7a-881b-40d225a4a5cd"
+        },
+        "083ea446-7f2f-46d6-9e23-b218e9601a79": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "b54bed98-c5b5-4a15-ac68-8c3872fdda0c"
+        },
+        "094ee8a7-970b-4b3a-9369-b8d03a9dde21": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "e8640dff-5583-4607-92a1-cb4e646611b8"
+        },
+        "1c4ff434-f3a5-4176-8df5-f5021444397c": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "47af401b-db3f-4ce3-9a1b-6cfa8a84c677"
+        },
+        "244b679f-3471-4761-853f-fb7f1946bdbd": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "7eeede92-04a2-430c-8dec-5b91e0d52fba"
+        },
+        "2eb88e81-f383-44a9-b002-47486170a26b": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "cc666781-c9b2-4683-a695-42ab194f8b5b"
+        },
+        "305544d2-e8ea-4b28-8683-7e4b922146d9": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "99a803a7-74a4-401a-80f4-6be83c5ca99a"
+        },
+        "34caf96e-22bd-48e1-9f0e-f5b28236d551": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "a42eb35f-35ca-4f7a-881b-40d225a4a5cd"
+        },
+        "397c510c-713b-4f37-8685-7d86ee917f6b": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "3d5f7acb-81df-4737-9ab9-ada0b1fe8f39"
+        },
+        "46005cf2-c34f-4e36-b35e-db64fb35f6e3": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "40bafbfb-e547-499f-8011-0212b33ba98f"
+        },
+        "4dfaead3-1512-4496-bd36-104d4125e866": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "8e2dfed5-0797-4ea2-ba2e-5557056b2a6b"
+        },
+        "51525aeb-881e-4cbf-ba33-67e0b23b4b5e": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "adab3850-24ad-48eb-bd18-19639a2b2152"
+        },
+        "597822cb-db8a-47e6-8797-7e3328ba97a3": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "bf2e5de0-6c37-4c7e-8ae9-58cc58ac5c37"
+        },
+        "67b45a06-00b1-4fa1-a131-405bef568d79": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "8765e1c5-92d3-472b-a0a0-b9aa9d91a486"
+        },
+        "692ccb2e-ac76-4550-b353-18169063b02e": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "aa31e3c4-56ae-4d36-8344-578dc029a39e"
+        },
+        "702fac10-53b2-47d3-b0c9-910c0e2fa91e": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "3cce97dd-8f52-461d-aff2-5c8254005200"
+        },
+        "74cfbda0-62b9-4986-b0b9-3d392a104fe5": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "029179cf-a7a2-4d67-84e0-609c9caf6e37"
+        },
+        "7db9bf69-2411-413f-98b3-4c59bf6857fa": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "1841db56-ca71-4b61-8977-af691fcacb8c"
+        },
+        "8069f9a6-e776-412e-a90c-9df4322434fc": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "b6d71745-408f-4bd1-8f91-f88d68c41509"
+        },
+        "84c71181-deac-469a-a463-6a6383ba6036": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "f12abb81-b1be-47cc-a47f-a25038181504"
+        },
+        "a2096ffe-3ff3-46a0-a096-c3a38aba0cc7": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "b7a58671-8007-4662-8ae3-848b1089f3c7"
+        },
+        "a7ddd4b9-ed3f-4e74-a7bd-9905a0a45c24": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "5a41e2c3-22d3-4121-bf81-d1ad32b885f1"
+        },
+        "bbf35ca9-dd21-4b07-98d4-102abfa9c37c": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "11922f7f-1c08-425a-9cd8-6af2f5b6e6a2"
+        },
+        "c12ec21c-820b-4340-830e-f09c559773e9": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "c3c995cd-7ed1-4ecb-b5b0-2c553ad6f5be"
+        },
+        "d36a2914-2cb4-45bb-bd80-b0c41d419e74": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "91efc6ac-48d3-4ec6-92b9-916fe73ce3ac"
+        },
+        "d387ac75-05d7-4e15-a0e2-5a4ca55d4d5c": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "1a1497ea-7b67-496c-9a30-3ec1a9b0c53b"
+        },
+        "e6bcafb5-bb1a-4e28-a2ac-788a7e2422bb": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "fda172fc-7236-46ab-8d91-a5e47abcb99c"
+        },
+        "f3068c21-09d8-47d3-bd77-4aa614d43b86": {
+            "gate": "c813d6a3-ab84-48f5-a613-a3fba46be5df",
+            "pin": "9d52616c-76da-4299-ac98-4b2c947250b0"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "c2ad1128-523a-4161-9471-ae7c7738a106",
+    "value": [
+        false,
+        ""
+    ]
+}

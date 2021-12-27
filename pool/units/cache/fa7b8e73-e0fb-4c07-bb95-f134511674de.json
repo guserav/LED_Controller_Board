@@ -1,0 +1,182 @@
+{
+    "manufacturer": "",
+    "name": "ESP32-DevBoard-WROOM",
+    "pins": {
+        "029179cf-a7a2-4d67-84e0-609c9caf6e37": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D32",
+            "swap_group": 0
+        },
+        "0c8fa2ae-b97e-4ddc-a87c-e3fd07bf752a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX0",
+            "swap_group": 0
+        },
+        "11922f7f-1c08-425a-9cd8-6af2f5b6e6a2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX0",
+            "swap_group": 0
+        },
+        "1841db56-ca71-4b61-8977-af691fcacb8c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D23",
+            "swap_group": 0
+        },
+        "1a1497ea-7b67-496c-9a30-3ec1a9b0c53b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D4",
+            "swap_group": 0
+        },
+        "3cce97dd-8f52-461d-aff2-5c8254005200": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D15",
+            "swap_group": 0
+        },
+        "3d5f7acb-81df-4737-9ab9-ada0b1fe8f39": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D12",
+            "swap_group": 0
+        },
+        "40bafbfb-e547-499f-8011-0212b33ba98f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "Vin",
+            "swap_group": 0
+        },
+        "47af401b-db3f-4ce3-9a1b-6cfa8a84c677": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "TX2",
+            "swap_group": 0
+        },
+        "5a41e2c3-22d3-4121-bf81-d1ad32b885f1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D26",
+            "swap_group": 0
+        },
+        "6c372645-5bed-49b0-9c00-0adc1ae1fe34": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D13",
+            "swap_group": 0
+        },
+        "7eeede92-04a2-430c-8dec-5b91e0d52fba": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D27",
+            "swap_group": 0
+        },
+        "8765e1c5-92d3-472b-a0a0-b9aa9d91a486": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D35",
+            "swap_group": 0
+        },
+        "8e2dfed5-0797-4ea2-ba2e-5557056b2a6b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VP",
+            "swap_group": 0
+        },
+        "91efc6ac-48d3-4ec6-92b9-916fe73ce3ac": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D25",
+            "swap_group": 0
+        },
+        "99a803a7-74a4-401a-80f4-6be83c5ca99a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RX2",
+            "swap_group": 0
+        },
+        "9d52616c-76da-4299-ac98-4b2c947250b0": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D2",
+            "swap_group": 0
+        },
+        "a42eb35f-35ca-4f7a-881b-40d225a4a5cd": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "aa31e3c4-56ae-4d36-8344-578dc029a39e": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D14",
+            "swap_group": 0
+        },
+        "adab3850-24ad-48eb-bd18-19639a2b2152": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D22",
+            "swap_group": 0
+        },
+        "b54bed98-c5b5-4a15-ac68-8c3872fdda0c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "3V3",
+            "swap_group": 0
+        },
+        "b6d71745-408f-4bd1-8f91-f88d68c41509": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D33",
+            "swap_group": 0
+        },
+        "b7a58671-8007-4662-8ae3-848b1089f3c7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D19",
+            "swap_group": 0
+        },
+        "bf2e5de0-6c37-4c7e-8ae9-58cc58ac5c37": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VN",
+            "swap_group": 0
+        },
+        "c3c995cd-7ed1-4ecb-b5b0-2c553ad6f5be": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "cc666781-c9b2-4683-a695-42ab194f8b5b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D18",
+            "swap_group": 0
+        },
+        "e8640dff-5583-4607-92a1-cb4e646611b8": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D21",
+            "swap_group": 0
+        },
+        "f12abb81-b1be-47cc-a47f-a25038181504": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D34",
+            "swap_group": 0
+        },
+        "fda172fc-7236-46ab-8d91-a5e47abcb99c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "D5",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "fa7b8e73-e0fb-4c07-bb95-f134511674de"
+}

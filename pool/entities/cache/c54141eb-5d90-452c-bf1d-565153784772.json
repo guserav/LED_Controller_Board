@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "c813d6a3-ab84-48f5-a613-a3fba46be5df": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "fa7b8e73-e0fb-4c07-bb95-f134511674de"
+        }
+    },
+    "manufacturer": "",
+    "name": "ESP32-DevBoard-WROOM",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "c54141eb-5d90-452c-bf1d-565153784772"
+}

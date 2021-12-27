@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "a69e03c5-ce96-4ce1-818e-d724b8b54b4b": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "8fc752c2-d9a7-4f23-b688-99502e3fcc10"
+        }
+    },
+    "manufacturer": "Yageo",
+    "name": "UET14A05L03-BK",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "ba1bcfb0-9e08-43a5-9aa7-2c9a6d12b189"
+}

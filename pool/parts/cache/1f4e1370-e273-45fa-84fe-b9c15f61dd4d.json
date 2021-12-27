@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "UET14A05L03-BK"
+    ],
+    "datasheet": [
+        false,
+        "https://www.yageo.com/upload/media/product/productsearch/datasheet/cpc/esd/UET14A05L03-BK_1.pdf"
+    ],
+    "description": [
+        false,
+        "Low-Capacitance 2-Channel ESD-Protection for High-Speed Data Interfaces"
+    ],
+    "entity": "ba1bcfb0-9e08-43a5-9aa7-2c9a6d12b189",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Yageo"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "187009e7-688d-4afc-afb5-1bd73c4129ab",
+    "pad_map": {
+        "585dcda7-90bb-4428-9144-64cd01392fec": {
+            "gate": "a69e03c5-ce96-4ce1-818e-d724b8b54b4b",
+            "pin": "9cece1e4-4c3b-4d29-b584-3c4d4a81fd24"
+        },
+        "5f6b1830-ac9d-42df-910b-050911ef3ed9": {
+            "gate": "a69e03c5-ce96-4ce1-818e-d724b8b54b4b",
+            "pin": "efba1a80-5682-4279-8121-dd47a9e7286f"
+        },
+        "a5512f0e-dd53-4c22-9c5c-9c209079d376": {
+            "gate": "a69e03c5-ce96-4ce1-818e-d724b8b54b4b",
+            "pin": "96555481-8029-4713-8ff0-4f8a9e092494"
+        },
+        "bec93fd4-5bf2-4fab-9de0-a3f7edb07aef": {
+            "gate": "a69e03c5-ce96-4ce1-818e-d724b8b54b4b",
+            "pin": "32778e14-9993-482e-92cb-7402c3e20bbf"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "esd",
+        "tvs"
+    ],
+    "type": "part",
+    "uuid": "1f4e1370-e273-45fa-84fe-b9c15f61dd4d",
+    "value": [
+        false,
+        ""
+    ]
+}
