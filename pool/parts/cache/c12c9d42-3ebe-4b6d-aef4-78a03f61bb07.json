@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "CTB9309-5"
+    ],
+    "datasheet": [
+        false,
+        "https://www.camdenboss.com/products/datasheet/CTB9309_series_D.pdf"
+    ],
+    "description": [
+        false,
+        "PCB Mounting Male Vertical connector (closed ended)"
+    ],
+    "entity": "7df8761c-9867-4b43-b018-5f5c3bfd0e6a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Camdenboss"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "b00a9101-f7c6-4c45-895e-fbdb5035ba2a",
+    "pad_map": {
+        "0929e091-96da-4259-bc05-d07be31c11c1": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "c55a5926-9adb-4da9-914f-ecbe44911478"
+        },
+        "2719c284-bc48-414b-adf3-8d4fa1e7f14d": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "79dc1645-1dd2-4d10-a12a-ac4426be1ee7"
+        },
+        "36dfcf31-38cc-40ea-b36d-72e1ad8cdaf2": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "9fb34e7c-856b-4413-8d12-28af8cc54529"
+        },
+        "905fe424-fe97-41e9-9b5b-a3da59327d87": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "b44c4791-5509-4fda-b027-ac181543a68a"
+        },
+        "d54f0034-f325-4d9e-918d-1fd8bade8f45": {
+            "gate": "fdf2cef9-c614-4909-a559-883ba8cf8cbb",
+            "pin": "c28d4a18-905d-497d-8f4b-18b376769929"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "c12c9d42-3ebe-4b6d-aef4-78a03f61bb07",
+    "value": [
+        false,
+        ""
+    ]
+}

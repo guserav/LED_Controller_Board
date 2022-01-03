@@ -1,0 +1,84 @@
+{
+    "MPN": [
+        false,
+        "009159006551906"
+    ],
+    "datasheet": [
+        false,
+        "https://media.digikey.com/pdf/Data%20Sheets/AVX%20PDFs/00-9159-zzz-551-906.pdf"
+    ],
+    "description": [
+        false,
+        "One Piece Top Entry Card Edge"
+    ],
+    "entity": "69260c96-9c92-4616-8555-6353be9a3b01",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "KYOCERA AVX"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "2b769848-e371-4c8f-a725-f56b341965ae",
+    "pad_map": {
+        "0a0fa4e1-2392-402a-ae10-5e326fd14e05": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "c3b4ba45-ad58-43eb-9709-a71e815d9012"
+        },
+        "14004b29-fb0b-4fbb-90c6-b6d7c0d6b770": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261"
+        },
+        "379fda16-a5d8-4011-b791-b7115c7b02ef": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "203bb8a2-729f-4d85-9078-2023b941401f"
+        },
+        "49158ee8-e3f6-404a-99be-5f404fb598e4": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "5b085d5d-183b-4ca8-939f-0cc1ad8e2335"
+        },
+        "5562e82f-bbf4-4c85-b3d3-2f59876f681e": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "5b085d5d-183b-4ca8-939f-0cc1ad8e2335"
+        },
+        "642daa42-d110-4f0d-94f4-717439d3d207": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63"
+        },
+        "71c035d5-b6be-4a52-ac4a-79132fa66af9": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "b8924622-e129-4d44-a4ec-46cccc6fbcaf"
+        },
+        "8c23f891-5b72-4715-9d52-312418e84ac8": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "5b085d5d-183b-4ca8-939f-0cc1ad8e2335"
+        },
+        "af46b50d-63e2-4959-ad28-57b47b7c89c8": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "5b085d5d-183b-4ca8-939f-0cc1ad8e2335"
+        },
+        "bff45d9f-2c36-4a38-b66f-5a489a1ebd1c": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "4b24441b-cbeb-49bc-9a30-277a9a11c2b6"
+        },
+        "d00d909f-8fad-464c-bfe4-431d46593259": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "5b085d5d-183b-4ca8-939f-0cc1ad8e2335"
+        },
+        "d611da7f-6e35-4d83-bce0-241961cb07c8": {
+            "gate": "d5f74729-19b9-4eba-87f9-f789bd6babf8",
+            "pin": "5b085d5d-183b-4ca8-939f-0cc1ad8e2335"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "f8dac47e-195a-458e-8d1a-339e1e7f5009",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -17,3 +17,7 @@ https://www.digikey.de/de/products/detail/yageo/UET14A05L03-BK/13689573
 ## USB to UART (for programming)
 
 http://wch-ic.com/products/CH340.html
+
+## Shottky
+https://www.digikey.de/de/products/detail/bourns-inc/CD0603-B0340R/7796828
+https://www.digikey.de/de/products/detail/comchip-technology/CDBU0520/2021251

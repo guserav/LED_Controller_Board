@@ -1,0 +1,219 @@
+{
+    "arcs": {},
+    "default_model": "00000000-0000-0000-0000-000000000000",
+    "dimensions": {},
+    "grid_settings": {
+        "current": {
+            "mode": "square",
+            "name": "",
+            "origin": [
+                0,
+                0
+            ],
+            "spacing_rect": [
+                1000000,
+                1000000
+            ],
+            "spacing_square": 50000
+        },
+        "grids": {}
+    },
+    "junctions": {
+        "826b56cd-d883-4a40-8b7d-311e00105180": {
+            "position": [
+                -5960000,
+                2400000
+            ]
+        },
+        "bccda378-b6da-477c-a07c-53f71986ffb0": {
+            "position": [
+                -5960000,
+                -2450000
+            ]
+        },
+        "d09ae2e0-8db2-42d2-939e-b8e310e4070b": {
+            "position": [
+                5910000,
+                -2450000
+            ]
+        },
+        "f02e30ce-641d-431b-b9c8-6ef60fb6c42b": {
+            "position": [
+                5910000,
+                2400000
+            ]
+        }
+    },
+    "keepouts": {},
+    "lines": {
+        "0663c897-e4bd-4505-ba4e-6bdc652f688b": {
+            "from": "f02e30ce-641d-431b-b9c8-6ef60fb6c42b",
+            "layer": 20,
+            "to": "d09ae2e0-8db2-42d2-939e-b8e310e4070b",
+            "width": 150000
+        },
+        "8190e3b6-f455-4bdc-8023-6f296971cb22": {
+            "from": "826b56cd-d883-4a40-8b7d-311e00105180",
+            "layer": 20,
+            "to": "f02e30ce-641d-431b-b9c8-6ef60fb6c42b",
+            "width": 150000
+        },
+        "d6979306-eb1f-4aec-af0f-54fc865322ac": {
+            "from": "bccda378-b6da-477c-a07c-53f71986ffb0",
+            "layer": 20,
+            "to": "826b56cd-d883-4a40-8b7d-311e00105180",
+            "width": 150000
+        }
+    },
+    "manufacturer": "Camdenboss",
+    "models": {},
+    "name": "CTB9359-2",
+    "pads": {
+        "36dfcf31-38cc-40ea-b36d-72e1ad8cdaf2": {
+            "name": "2",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1700000,
+                "pad_diameter": 2500000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    2540000,
+                    0
+                ]
+            }
+        },
+        "d54f0034-f325-4d9e-918d-1fd8bade8f45": {
+            "name": "1",
+            "padstack": "296cf69b-9d53-45e4-aaab-4aedf4087d3a",
+            "parameter_set": {
+                "hole_diameter": 1700000,
+                "pad_diameter": 2500000
+            },
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2540000,
+                    0
+                ]
+            }
+        }
+    },
+    "parameter_program": "",
+    "parameter_set": {
+        "courtyard_expansion": 250000
+    },
+    "polygons": {
+        "818dbec4-ade2-4d77-bc8b-4eed2930921b": {
+            "layer": 40,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -5680000,
+                        -10000000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -5680000,
+                        2100000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5680000,
+                        2100000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        5680000,
+                        -10000000
+                    ],
+                    "type": "line"
+                }
+            ]
+        }
+    },
+    "rules": {
+        "clearance_package": {
+            "clearance_silkscreen_cu": 200000,
+            "clearance_silkscreen_pkg": 200000,
+            "enabled": true,
+            "order": -1
+        },
+        "package_checks": {
+            "enabled": true,
+            "order": -1
+        }
+    },
+    "tags": [
+        "connector",
+        "passive"
+    ],
+    "texts": {
+        "956a128e-56ca-4836-9983-eec3b9446fba": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 50,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -2410000,
+                    -4050000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 0
+        },
+        "f16b420d-fc22-46a2-b218-56c22a6a2458": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 20,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -5810000,
+                    3350000
+                ]
+            },
+            "size": 1000000,
+            "text": "$RD",
+            "width": 150000
+        }
+    },
+    "type": "package",
+    "uuid": "77a0d919-0ebb-4cf3-ab2d-1596f8bd278b"
+}

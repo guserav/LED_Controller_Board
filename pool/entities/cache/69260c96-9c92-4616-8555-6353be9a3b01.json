@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "d5f74729-19b9-4eba-87f9-f789bd6babf8": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "79f78163-5d3e-4311-b7a1-3565c27d60f1"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic 6 pin connector with mounting pad",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "69260c96-9c92-4616-8555-6353be9a3b01"
+}

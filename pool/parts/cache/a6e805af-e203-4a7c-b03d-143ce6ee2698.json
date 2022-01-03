@@ -1,0 +1,43 @@
+{
+    "MPN": [
+        false,
+        "CTB9359-2"
+    ],
+    "datasheet": [
+        false,
+        "https://www.camdenboss.com/products/datasheet/CTB9309_series_D.pdf"
+    ],
+    "description": [
+        false,
+        "Horizontal 2 pin connector"
+    ],
+    "entity": "29f544a1-a789-4fe6-a1ef-29da5ba3d371",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Camblock"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "77a0d919-0ebb-4cf3-ab2d-1596f8bd278b",
+    "pad_map": {
+        "36dfcf31-38cc-40ea-b36d-72e1ad8cdaf2": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "588536f1-9e96-4500-bcbb-4ba48082b643"
+        },
+        "d54f0034-f325-4d9e-918d-1fd8bade8f45": {
+            "gate": "eb7f68b1-6fba-4a35-a470-2cecb23fe087",
+            "pin": "b3cef4f5-fe6c-45b5-b063-1618f997168f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "a6e805af-e203-4a7c-b03d-143ce6ee2698",
+    "value": [
+        false,
+        ""
+    ]
+}

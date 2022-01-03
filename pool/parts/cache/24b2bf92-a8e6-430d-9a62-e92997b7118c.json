@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "0603 Schottky Diode"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "0603 Schottky Diode"
+    ],
+    "entity": "cba5158c-706d-4f10-b48a-2de7e5a82a4c",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "bb3da64d-20c6-408b-bff1-a83e492a3f7f",
+    "package": "ee1f4a18-2a52-4c17-a02d-371ea0ab343f",
+    "pad_map": {
+        "1a32a4c6-0adc-4947-ab27-c14c3380ecc6": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "16ee5a5c-8eea-4447-ad48-04d973776e3a"
+        },
+        "dec661f3-a37e-4510-b296-a64510e72bd3": {
+            "gate": "3a9cf76e-893b-4785-a6af-6f15da2086dc",
+            "pin": "b57ca2a1-1bbf-43f0-b0a0-bf953094a8de"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "diode",
+        "schottky"
+    ],
+    "type": "part",
+    "uuid": "24b2bf92-a8e6-430d-9a62-e92997b7118c",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

@@ -1,0 +1,47 @@
+{
+    "MPN": [
+        false,
+        "CTB9359-3"
+    ],
+    "datasheet": [
+        false,
+        "https://www.camdenboss.com/products/datasheet/CTB9309_series_D.pdf"
+    ],
+    "description": [
+        false,
+        "Horizontal 3 pin connector"
+    ],
+    "entity": "dac08463-17e8-4eb3-b5b4-4d7be5775379",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Camblock"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "8b44c3a8-5664-4066-b9c6-6b75589f7d15",
+    "pad_map": {
+        "36dfcf31-38cc-40ea-b36d-72e1ad8cdaf2": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "1803365d-f745-4921-a54f-c5df6afa6561"
+        },
+        "905fe424-fe97-41e9-9b5b-a3da59327d87": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "4c0e5d34-b007-432d-880b-3a3b8e963a14"
+        },
+        "d54f0034-f325-4d9e-918d-1fd8bade8f45": {
+            "gate": "6cbea03f-31ec-49ea-9903-b9bf7b26e340",
+            "pin": "b22250f7-9956-4ac8-ada1-725b7ba800c8"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "af4a74fd-38f2-4b29-aafa-7b820c90339d",
+    "value": [
+        false,
+        ""
+    ]
+}

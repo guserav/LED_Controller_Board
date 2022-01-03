@@ -1,0 +1,50 @@
+{
+    "manufacturer": "",
+    "name": "Generic 6 pin connector with mounting pad",
+    "pins": {
+        "203bb8a2-729f-4d85-9078-2023b941401f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "4b24441b-cbeb-49bc-9a30-277a9a11c2b6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "5b085d5d-183b-4ca8-939f-0cc1ad8e2335": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Mount",
+            "swap_group": 0
+        },
+        "b8924622-e129-4d44-a4ec-46cccc6fbcaf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "c3b4ba45-ad58-43eb-9709-a71e815d9012": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "d5465e9d-439d-4a9c-b2a6-9ff92edf1f63": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "dd9ef2c9-0256-4f19-b1a9-2a4dffd82261": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "79f78163-5d3e-4311-b7a1-3565c27d60f1"
+}
