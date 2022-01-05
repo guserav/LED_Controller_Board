@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "N-channel mosfed TO-252-3"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "N-channel mosfed TO-252-3"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5c66fb45-abd4-419d-a586-e4f70a1666b6",
+    "pad_map": {
+        "0da58765-1b32-47bc-b8ac-d73309826723": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "ad7ec624-b697-4e84-b94d-876410b53ed2": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        },
+        "d20d28f4-fd0c-456a-b5b0-f68f8872276a": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "generic",
+        "mosfet",
+        "n-channel",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "7c602027-11ce-413c-915d-1b9653f6a417",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

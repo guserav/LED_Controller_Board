@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "MCU30N02-TP"
+    ],
+    "base": "7c602027-11ce-413c-915d-1b9653f6a417",
+    "datasheet": [
+        false,
+        "https://www.mccsemi.com/pdf/Products/MCU30N02(DPAK).pdf"
+    ],
+    "description": [
+        false,
+        "MOSFET N-CH 20V 30A DPAK"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Micro Commercial Co"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "67254515-ff50-4372-8e2b-cad27dfcc1b8",
+    "value": [
+        true,
+        "N-channel mosfed TO-252-3"
+    ]
+}

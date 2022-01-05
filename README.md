@@ -21,3 +21,10 @@ http://wch-ic.com/products/CH340.html
 ## Shottky
 https://www.digikey.de/de/products/detail/bourns-inc/CD0603-B0340R/7796828
 https://www.digikey.de/de/products/detail/comchip-technology/CDBU0520/2021251
+
+## Mosfet
+
+
+
+## RS485 breakout
+https://www.digikey.de/de/products/detail/infineon-technologies/IRLR120NTRPBF/811399

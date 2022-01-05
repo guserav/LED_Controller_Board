@@ -1,0 +1,55 @@
+{
+    "MPN": [
+        false,
+        "N-channel MOSFET TO-220"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "N-Channel MOSFET T-220"
+    ],
+    "entity": "c135130c-0663-4575-9083-3b328ac00c90",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "5a5f5cfd-ed1f-45a3-99bf-82b151403db1",
+    "pad_map": {
+        "674ebded-7399-4afe-a0dd-b0ecc9546ab3": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "4887ef47-94f0-4fd1-b552-c424bd37a3e7"
+        },
+        "b9c811c0-2206-4b2a-923d-5f0040b4df14": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "074c3718-08fd-4f94-88fc-2bb43174b245"
+        },
+        "fe26cc14-b789-4690-946f-da8d205d17a1": {
+            "gate": "6dce85e8-6b70-44ac-8ae8-d17152c3707a",
+            "pin": "eb63ac9a-5d7e-42e2-92ea-a140a97f47d0"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "mosfet",
+        "n-channel",
+        "th"
+    ],
+    "type": "part",
+    "uuid": "3a7254d6-e151-4e14-9b04-f6e064280aab",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

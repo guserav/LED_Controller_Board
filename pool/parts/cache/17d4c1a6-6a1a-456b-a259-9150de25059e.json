@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "IRFZ24NPBF"
+    ],
+    "base": "3a7254d6-e151-4e14-9b04-f6e064280aab",
+    "datasheet": [
+        false,
+        "https://www.infineon.com/dgdl/irfz24npbf.pdf?fileId=5546d462533600a40153563af6ce21f7"
+    ],
+    "description": [
+        true,
+        "N-Channel MOSFET T-220"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Infineon Technologies"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "17d4c1a6-6a1a-456b-a259-9150de25059e",
+    "value": [
+        true,
+        "N-channel MOSFET T-220"
+    ]
+}
