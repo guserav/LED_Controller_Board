@@ -65,7 +65,7 @@
             "width": 150000
         }
     },
-    "manufacturer": "Camblock",
+    "manufacturer": "Camdenboss",
     "models": {},
     "name": "CTB9359-3",
     "pads": {
@@ -244,7 +244,10 @@
             "order": -1
         }
     },
-    "tags": [],
+    "tags": [
+        "connector",
+        "passive"
+    ],
     "texts": {
         "956a128e-56ca-4836-9983-eec3b9446fba": {
             "font": "simplex",
